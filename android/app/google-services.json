@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "241939142298",
+    "firebase_url": "https://quizal-56129-default-rtdb.firebaseio.com",
+    "project_id": "quizal-56129",
+    "storage_bucket": "quizal-56129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241939142298:android:24440dddef38a84dc8f123",
+        "android_client_info": {
+          "package_name": "id.alfianhpratama.member.quizal.quizal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojT2SPj1KXL2tbdFHIQdDWAeacuHzGgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
